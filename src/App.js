@@ -25,10 +25,7 @@ function App() {
 
     const mq = window.matchMedia("(prefers-color-scheme: dark)");
     mq.addListener(changeMedia);
-
-    setDarkMode(mq.matches);
-    setOsDarkMode(mq.matches);
-
+    changeMedia(mq);
     return () => {
       mq.removeListener(changeMedia);
     };
