@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/social-media-dashboard-react/static/css/main.3571076e.chunk.css",
-    "main.js": "/social-media-dashboard-react/static/js/main.a3048812.chunk.js",
-    "main.js.map": "/social-media-dashboard-react/static/js/main.a3048812.chunk.js.map",
+    "main.css": "/social-media-dashboard-react/static/css/main.84f1899b.chunk.css",
+    "main.js": "/social-media-dashboard-react/static/js/main.8e7c947c.chunk.js",
+    "main.js.map": "/social-media-dashboard-react/static/js/main.8e7c947c.chunk.js.map",
     "runtime-main.js": "/social-media-dashboard-react/static/js/runtime-main.eab1815c.js",
     "runtime-main.js.map": "/social-media-dashboard-react/static/js/runtime-main.eab1815c.js.map",
-    "static/js/2.60ba9977.chunk.js": "/social-media-dashboard-react/static/js/2.60ba9977.chunk.js",
-    "static/js/2.60ba9977.chunk.js.map": "/social-media-dashboard-react/static/js/2.60ba9977.chunk.js.map",
+    "static/js/2.bbd5cbcb.chunk.js": "/social-media-dashboard-react/static/js/2.bbd5cbcb.chunk.js",
+    "static/js/2.bbd5cbcb.chunk.js.map": "/social-media-dashboard-react/static/js/2.bbd5cbcb.chunk.js.map",
     "index.html": "/social-media-dashboard-react/index.html",
-    "precache-manifest.8829af49ef3f514089fa5495c12b6d30.js": "/social-media-dashboard-react/precache-manifest.8829af49ef3f514089fa5495c12b6d30.js",
+    "precache-manifest.508056904c10af0f96b9aab3f2ba6d91.js": "/social-media-dashboard-react/precache-manifest.508056904c10af0f96b9aab3f2ba6d91.js",
     "service-worker.js": "/social-media-dashboard-react/service-worker.js",
-    "static/css/main.3571076e.chunk.css.map": "/social-media-dashboard-react/static/css/main.3571076e.chunk.css.map",
-    "static/js/2.60ba9977.chunk.js.LICENSE.txt": "/social-media-dashboard-react/static/js/2.60ba9977.chunk.js.LICENSE.txt",
+    "static/css/main.84f1899b.chunk.css.map": "/social-media-dashboard-react/static/css/main.84f1899b.chunk.css.map",
+    "static/js/2.bbd5cbcb.chunk.js.LICENSE.txt": "/social-media-dashboard-react/static/js/2.bbd5cbcb.chunk.js.LICENSE.txt",
     "static/media/icon-down.svg": "/social-media-dashboard-react/static/media/icon-down.69a5c77f.svg",
     "static/media/icon-facebook.svg": "/social-media-dashboard-react/static/media/icon-facebook.a7383764.svg",
     "static/media/icon-instagram.svg": "/social-media-dashboard-react/static/media/icon-instagram.991487fe.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eab1815c.js",
-    "static/js/2.60ba9977.chunk.js",
-    "static/css/main.3571076e.chunk.css",
-    "static/js/main.a3048812.chunk.js"
+    "static/js/2.bbd5cbcb.chunk.js",
+    "static/css/main.84f1899b.chunk.css",
+    "static/js/main.8e7c947c.chunk.js"
   ]
 }
