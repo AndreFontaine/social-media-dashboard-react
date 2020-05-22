@@ -1,8 +1,12 @@
-.body {
-  background-color: var(--baseBackground);
-  color: var(--baseColor);
-  font-family: "Inter", sans-serif;
+body {
   margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  color: var(--baseColor);
+  background: var(--baseBackground);
+  min-height: 100vh;
 }
 
 :root {
@@ -14,14 +18,14 @@
   --instagram-2: hsl(329, 70%, 58%);
   --youTube: hsl(348, 97%, 39%);
 
-  --gray: #5f616d;
+  /* --gray: #5f616d;
   --cardGray: #f0f3fa;
   --baseBackground: white;
   --baseColor: #1d2029;
   --lightGray: #f8f9fe;
   --cardTitle: #6f717e;
   --switchSpinner: white;
-  --switch: #5f616d;
+  --switch: #5f616d; */
 }
 
 .grid {

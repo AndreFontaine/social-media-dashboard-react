@@ -24,7 +24,7 @@
   height: 30px;
   display: block;
   border-radius: 50%;
-  transform: translateX(40px);
+  transform: translateX(0);
   transition: 0.3s;
 }
 
@@ -33,5 +33,5 @@
 }
 
 .switch-mode-checkbox:checked ~ .switch-mode-toggle::before {
-  transform: translateX(0px);
+  transform: translateX(40px);
 }
