@@ -1,0 +1,60 @@
+.detail-cards {
+  padding-bottom: 2em;
+}
+
+.card-small {
+  /* border: 1px solid red; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 8px;
+  background-color: var(--cardGray);
+  padding: 1.7em;
+  grid-row-gap: 1em;
+}
+
+.card-small div {
+  margin: 0;
+}
+
+.card-small-title {
+  /* border: 1px solid blue; */
+  color: var(--cardTitle);
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.card-small-social {
+  /* border: 1px solid orange; */
+  text-align: right;
+}
+
+.card-small-number {
+  /* border: 1px solid purple; */
+  font-size: 2.4em;
+  font-weight: bold;
+  line-height: 0.9;
+}
+
+.card-small-percentage {
+  /* border: 1px solid green; */
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: var(--lime-green);
+}
+
+.card-small-percentage-ctn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-small-percentage-ctn img {
+  margin-right: 5px;
+}
+
+.percentage.danger {
+  color: var(--bright-red);
+}

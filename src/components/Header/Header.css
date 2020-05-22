@@ -1,0 +1,35 @@
+.header {
+  border-bottom: 1px solid var(--gray);
+  margin-bottom: 10px;
+  padding-bottom: 16px;
+}
+
+.header--title {
+  padding-top: 2em;
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+.header--total {
+  font-size: 1em;
+  color: var(--gray);
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+h3 {
+  margin-right: 28px;
+  font-weight: normal;
+}
+
+@media screen and (min-width: 1024px) {
+  .header {
+    border-bottom: 0px solid var(--gray);
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
